@@ -1,0 +1,257 @@
+{
+  "Recharts": {
+    "data": [
+      {
+        "amt": 2400,
+        "name": "Page A",
+        "pv": 2400,
+        "uv": 4000
+      },
+      {
+        "amt": 2210,
+        "name": "Page B",
+        "pv": 1398,
+        "uv": 3000
+      },
+      {
+        "amt": 2290,
+        "name": "Page C",
+        "pv": 9800,
+        "uv": 5000
+      },
+      {
+        "amt": 2000,
+        "name": "Page D",
+        "pv": 3908,
+        "uv": 2780
+      },
+      {
+        "amt": 2181,
+        "name": "Page E",
+        "pv": 4800,
+        "uv": 1890
+      },
+      {
+        "amt": 2500,
+        "name": "Page F",
+        "pv": 3800,
+        "uv": 2390
+      },
+      {
+        "amt": 2100,
+        "name": "Page G",
+        "pv": 4300,
+        "uv": 3490
+      }
+    ],
+    "data01": [
+      {
+        "name": "Group A",
+        "value": 400
+      },
+      {
+        "name": "Group B",
+        "value": 300
+      },
+      {
+        "name": "Group C",
+        "value": 300
+      },
+      {
+        "name": "Group D",
+        "value": 200
+      }
+    ],
+    "data02": [
+      {
+        "name": "A1",
+        "value": 100
+      },
+      {
+        "name": "A2",
+        "value": 300
+      },
+      {
+        "name": "B1",
+        "value": 100
+      },
+      {
+        "name": "B2",
+        "value": 80
+      },
+      {
+        "name": "B3",
+        "value": 40
+      },
+      {
+        "name": "B4",
+        "value": 30
+      },
+      {
+        "name": "B5",
+        "value": 50
+      },
+      {
+        "name": "C1",
+        "value": 100
+      },
+      {
+        "name": "C2",
+        "value": 200
+      },
+      {
+        "name": "D1",
+        "value": 150
+      },
+      {
+        "name": "D2",
+        "value": 50
+      }
+    ]
+  },
+  "Victory": {
+    "data2012": [
+      {
+        "earnings": 13000,
+        "quarter": 1
+      },
+      {
+        "earnings": 16500,
+        "quarter": 2
+      },
+      {
+        "earnings": 14250,
+        "quarter": 3
+      },
+      {
+        "earnings": 19000,
+        "quarter": 4
+      }
+    ],
+    "data2013": [
+      {
+        "earnings": 15000,
+        "quarter": 1
+      },
+      {
+        "earnings": 12500,
+        "quarter": 2
+      },
+      {
+        "earnings": 19500,
+        "quarter": 3
+      },
+      {
+        "earnings": 13000,
+        "quarter": 4
+      }
+    ],
+    "data2014": [
+      {
+        "earnings": 11500,
+        "quarter": 1
+      },
+      {
+        "earnings": 13250,
+        "quarter": 2
+      },
+      {
+        "earnings": 20000,
+        "quarter": 3
+      },
+      {
+        "earnings": 15500,
+        "quarter": 4
+      }
+    ],
+    "data2015": [
+      {
+        "earnings": 18000,
+        "quarter": 1
+      },
+      {
+        "earnings": 13250,
+        "quarter": 2
+      },
+      {
+        "earnings": 15000,
+        "quarter": 3
+      },
+      {
+        "earnings": 12000,
+        "quarter": 4
+      }
+    ]
+  },
+  "charts": {
+    "One": {
+      "chartType": "Line",
+      "data": {
+        "chartType": true,
+        "datasets": [
+          {
+            "backgroundColor": "rgba(75,192,192,0.4)",
+            "borderCapStyle": "butt",
+            "borderColor": "rgba(75,192,192,1)",
+            "borderDashOffset": 0.0,
+            "borderJoinStyle": "miter",
+            "data": [60, 59, 80, 81, 56, 55, 40],
+            "fill": false,
+            "label": "My Awesome First dataset",
+            "lineTension": 0.1,
+            "pointBackgroundColor": "#fff",
+            "pointBorderColor": "rgba(75,192,192,1)",
+            "pointBorderWidth": 1,
+            "pointHitRadius": 10,
+            "pointHoverBackgroundColor": "rgba(75,192,192,1)",
+            "pointHoverBorderColor": "rgba(220,220,220,1)",
+            "pointHoverBorderWidth": 2,
+            "pointHoverRadius": 5,
+            "pointRadius": 1
+          }
+        ],
+        "labels": ["Jan", "February", "March", "April", "May", "June", "July"]
+      },
+      "title": "Hi BT3103"
+    },
+    "Two": {
+      "chartType": "Line",
+      "data": {
+        "chartType": true,
+        "datasets": [
+          {
+            "backgroundColor": "rgba(75,192,192,0.4)",
+            "borderCapStyle": "butt",
+            "borderColor": "rgba(75,192,192,1)",
+            "borderDashOffset": 0.0,
+            "borderJoinStyle": "miter",
+            "data": [60, 59, 80, 81, 56, 55, 40],
+            "fill": false,
+            "label": "My First dataset",
+            "lineTension": 0.1,
+            "pointBackgroundColor": "#fff",
+            "pointBorderColor": "rgba(75,192,192,1)",
+            "pointBorderWidth": 1,
+            "pointHitRadius": 10,
+            "pointHoverBackgroundColor": "rgba(75,192,192,1)",
+            "pointHoverBorderColor": "rgba(220,220,220,1)",
+            "pointHoverBorderWidth": 2,
+            "pointHoverRadius": 5,
+            "pointRadius": 1
+          }
+        ],
+        "labels": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July"
+        ]
+      },
+      "title": "Local Data Line Chart 2"
+    }
+  },
+  "greeting": "Hi from local_data.json."
+}
